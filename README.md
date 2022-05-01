@@ -1,6 +1,6 @@
 # Music Chatbot 
 
-## Members
+## Contributors
 - Annabel MERCERON
 - Praba MOGANE
 - Rayan MESSAOUDI
