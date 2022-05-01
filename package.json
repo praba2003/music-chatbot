@@ -1,0 +1,27 @@
+{
+  "name": "chatbot-music",
+  "version": "1.0.0",
+  "description": "## Members - Annabel MERCERON - Latchoumipraba MOGANE - Rayan MESSAOUDI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "body-parser": "^1.19.2",
+    "danfojs-node": "^1.0.4",
+    "express": "^4.17.3",
+    "matcher": "^5.0.0",
+    "messenger": "^0.0.9",
+    "pandas-js": "^0.2.4",
+    "request": "^2.88.2",
+    "requests": "^0.3.0",
+    "user": "^0.0.0",
+    "util": "^0.12.4",
+    "xregexp": "^5.1.0"
+  }
+}
