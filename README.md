@@ -2,7 +2,6 @@
 
 ## Description
 Our music chatbot has been designed to answer questions about songs, artists and albums. It also can recommand the user some musics. The objective is to inform users about music, to advise them, or to give the most listened music of the moment.
-At first, we wanted to link a python file with the recommendation system and the node.js file with the chatbot, but we didn't suceed. So we finally decided to "translate" our python code in java script to add it in one node.js file.
 
 ## Informations about our chatbot
 - Chatbot platform : Facebook
