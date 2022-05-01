@@ -9,8 +9,7 @@ At first, we wanted to link a python file with the recommendation system and the
 - Copy this link to access to our chatbot : https://m.me/111934974715226
 
 ## Recommender System
-We built our recommandation system on Python but we couldn't link it to this project. We can recommand an artist or a track to the user, he just have to put his favorite tracks and a grade for those track. We got the data from last.fm. Our api gives us a liste of tags for each artist/track. For example, the liste of tags of Praise god from Kanye West is Kanye West. We first give the score of 0 for each tag. Every time a user add a track ( or an artist ), we increase the score of its tag.
-The score for each track ( artist ) is the sum of the score of its tags. Finaly, we return the track ( or artist ) with the highest score.
+We can recommand an artist or a track to the user, he just have to put his favorite tracks and a grade for those track. We got the data from last.fm. Our api gives us a list of tags for each artist/track. For example, the list of tags of Praise god from Kanye West is Kanye West. We first give the score of 0 for each tag. Every time a user add a track ( or an artist ), we increase the score of its tag. The score for each track ( artist ) is the sum of the score of its tags. Finally, we return the track ( or artist ) with the highest score.
 
 ## Language Processing
 We use a NLP technology that extracts the intents (the purpose) and entities (the important elements contained in the sentence) of a sentence. 
